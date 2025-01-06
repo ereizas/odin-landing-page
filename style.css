@@ -7,6 +7,10 @@ body {
     justify-content: space-around;
 }
 
+.header, .hero, .footer {
+    background-color: #1F2937;
+}
+
 ul {
     display: flex;
     list-style-type: none;
