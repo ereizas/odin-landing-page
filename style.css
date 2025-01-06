@@ -1,11 +1,12 @@
 .header {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 ul {
     display: flex;
     list-style-type: none;
+    gap: 10px;
 }
 
 a {
