@@ -11,6 +11,19 @@ body {
     background-color: #1F2937;
 }
 
+#logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.header-links {
+    font-size: 18px;
+}
+
+.header-links a {
+    color: #E5E7EB;
+}
+
 ul {
     display: flex;
     list-style-type: none;
