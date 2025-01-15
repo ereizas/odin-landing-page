@@ -21,6 +21,7 @@ body {
 
 .header-links {
     font-size: 18px;
+    column-gap: 20px;
 }
 
 .header-links a {
