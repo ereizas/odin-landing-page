@@ -8,6 +8,7 @@ body {
     justify-content: space-around;
     align-items: center;
     padding-top: 10px;
+    padding-bottom: 100px;
 }
 
 .header, .hero, .footer {
