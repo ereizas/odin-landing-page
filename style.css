@@ -32,14 +32,21 @@ body {
     column-gap: 20px;
 }
 
-.header-links a, #hero-text p, #hero-text button {
+.header-links a, #hero-text p{  
     font-size: 18px;
+}
+
+.header-links a, #hero-text p, #hero-text button{
     color: #E5E7EB;
 }
+
 
 button {
     background-color: #3882F6;
     border-radius: 12px;
+    font-weight: bold;
+    width: 120px;
+    height: 35px;
 }
 
 ul {
