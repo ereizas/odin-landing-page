@@ -6,9 +6,6 @@ body {
 .header, .hero {
     display: flex;
     justify-content: space-around;
-}
-
-.header {
     align-items: center;
     padding-top: 10px;
     padding-bottom: 100px;
