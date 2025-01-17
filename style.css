@@ -26,13 +26,16 @@ body {
     color: #F9FAF8;
 }
 
-#hero-main {
+#hero-text strong {
     font-size: 48px;
     font-weight: 900;
 }
 
-.header-links {
+.header-links, #hero-text p, #hero-text button {
     font-size: 18px;
+}
+
+.header-links {
     column-gap: 20px;
 }
 
