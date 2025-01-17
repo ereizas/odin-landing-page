@@ -15,6 +15,10 @@ body {
     background-color: #1F2937;
 }
 
+.hero img {
+    max-width: 425px;
+}
+
 #logo {
     font-size: 24px;
 }
@@ -58,10 +62,6 @@ ul {
 
 a {
     text-decoration: none;
-}
-
-.hero {
-    display: flex;
 }
 
 #hero-text {
