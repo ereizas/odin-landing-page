@@ -31,15 +31,12 @@ body {
     font-weight: 900;
 }
 
-.header-links, #hero-text p, #hero-text button {
-    font-size: 18px;
-}
-
 .header-links {
     column-gap: 20px;
 }
 
-.header-links a {
+.header-links a, #hero-text p, #hero-text button {
+    font-size: 18px;
     color: #E5E7EB;
 }
 
