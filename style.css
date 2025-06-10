@@ -105,10 +105,14 @@ a {
 }
 
 .call-to-action {
+    padding: 7% 3%;
+}
+
+.call-to-action #call-to-action {
     display: flex;
     justify-content: space-around;
 }
 
-.call-to-action p {
+#call-to-action p {
     margin:0;
 }
