@@ -98,3 +98,12 @@ a {
     max-height: 300px;
     max-width: 300px;
 }
+
+.call-to-action {
+    display: flex;
+    justify-content: space-around;
+}
+
+.call-to-action p {
+    margin:0;
+}
