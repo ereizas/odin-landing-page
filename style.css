@@ -68,14 +68,20 @@ a {
     max-width: 400px;
 }
 
-.info, .testimonial {
+.info, #testimonial-block {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-.testimonial strong {
+#testimonial-block strong {
     align-self: flex-end;
+}
+
+#testimonial-block {
+    width: 50%;
+    height: 65%;
+    margin: auto;
 }
 
 .info ul {
