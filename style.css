@@ -74,6 +74,10 @@ a {
     align-items: center;
 }
 
+.info ul {
+    flex-wrap: wrap;
+}
+
 .info img {
     max-height: 300px;
     max-width: 300px;
