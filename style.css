@@ -119,3 +119,8 @@ a {
 #call-to-action p {
     margin:0;
 }
+
+#call-to-action button {
+    border-color : #E5E7EB;
+    border-style : solid;
+}
