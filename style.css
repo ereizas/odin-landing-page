@@ -40,7 +40,7 @@ body {
     font-size: 18px;
 }
 
-.header-links a, #hero-text p, #hero-text button{
+.header-links a, #hero-text p, #hero-text button, #call-to-action button{
     color: #E5E7EB;
 }
 
@@ -105,12 +105,15 @@ a {
 }
 
 .call-to-action {
-    padding: 7% 3%;
+    padding: 5% 10%;
+    color: #E5E7EB;
 }
 
 .call-to-action #call-to-action {
     display: flex;
     justify-content: space-around;
+    padding: 2% 4%;
+    background-color: #3882F6;
 }
 
 #call-to-action p {
